@@ -25,7 +25,6 @@ Este backend requiere [Node.js](https://nodejs.org/) v4+.
 Para instalar las depencias
 
 ```sh
-$ cd backend
 $ npm install 
 $ npm run dev 
 ```
